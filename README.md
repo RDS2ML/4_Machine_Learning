@@ -8,4 +8,5 @@ Module Goals:
 
 
 * ### Machine-Learning [[click here](https://github.com/RDS2ML/4_Machine_Learning/tree/main/Machine_Learning_1)]
-    * #### Supervised Learning: Regression []
+    * #### linear regression: Analytical Solution []
+    * #### Linear Regression: a Numerical Solution []
